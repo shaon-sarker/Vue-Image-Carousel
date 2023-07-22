@@ -33,7 +33,7 @@ function prevButton() {
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h2>Image Carousel Using Vue js 03</h2>
+                <h2>Image Carousel Using Vue js</h2>
                 <div id="carouselExample" class="carousel slide">
                   <div class="carousel-inner">
                     <div class="carousel-item active">
